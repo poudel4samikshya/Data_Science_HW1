@@ -1,1 +1,3 @@
-# Data_Science_HW1
+# Probablity and distributions of Data
+
+This assignmet is from my Data Science Class. Fot the further info: visit DataScience_HW1.ipynb. It provides the question, code, output and documentation of the assignment
